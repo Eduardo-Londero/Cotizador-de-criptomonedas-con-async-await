@@ -1,0 +1,5 @@
+Cotizador de criptomonedas actual con async await
+
+Podremos elegir una moneda y una criptomoneda y se consumira una api para
+traer la cotizacion de una criptomoneda en la moneda elegida.
+
